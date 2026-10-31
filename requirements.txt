@@ -1,0 +1,12 @@
+torch
+transformers==4.57.6
+datasets
+accelerate
+bitsandbytes
+sentencepiece
+sacrebleu
+pandas
+numpy
+matplotlib
+scikit-learn
+huggingface-hub
